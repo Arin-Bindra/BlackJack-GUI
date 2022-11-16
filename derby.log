@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Oct 13 20:46:11 NZDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0183-d04e-d582-00000f000000 
+on database directory C:\Users\bindr\Google Drive\Uni\AUT\2022\Sem 1\Ense600\Project 2\ENSE600_Project2_ID_18042017\CasoinoD_Ebd with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@659e0bfd 
+Loaded from file:/C:/Users/bindr/Google%20Drive/Uni/AUT/2022/Sem%201/Ense600/Project%202/ENSE600_Project2_ID_18042017/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.2+8-LTS-86
+user.dir=C:\Users\bindr\Google Drive\Uni\AUT\2022\Sem 1\Ense600\Project 2\ENSE600_Project2_ID_18042017
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

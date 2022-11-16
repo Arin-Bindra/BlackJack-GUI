@@ -1,0 +1,5 @@
+devon|2|50
+james|45|3
+bob|4|20
+john|0|0
+arin|16|17
